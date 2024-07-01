@@ -11,3 +11,5 @@ class AppInitial {
     box = await Hive.openBox('box');
   }
 }
+
+int son = 12;
